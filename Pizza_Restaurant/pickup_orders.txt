@@ -1,0 +1,3 @@
+Customer: tata | Size: medium | Flavor: tikka | Quantity: 4 | Topping: yes | Bottle: mint | Total: Rs. 4100
+
+Customer: yy | Size: small | Flavor: tikka | Quantity: 7 | Topping: yes | Bottle: None | Total: Rs. 4900
